@@ -10,7 +10,6 @@ packages = [{ include = "google_ai_bot_demo" }]
 python = "^3.11"
 python-dotenv = "^1.0.0"
 discord-py-interactions = "^5.9.2"
-bardapi = "^0.1.33"
 google-generativeai = "^0.1.0"
 
 
